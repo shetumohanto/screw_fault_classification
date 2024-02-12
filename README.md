@@ -1,5 +1,5 @@
 # Screw Fault Classification on an Unbalanced Dataset
-CNN-based classifier model to detect faulty. <br>
+CNN-based classifier model to detect faulty screw. <br>
 Oversampling method has been used to overcome the problem of imbalanced dataset.<br><br>
 
 Sample input image: <br>
